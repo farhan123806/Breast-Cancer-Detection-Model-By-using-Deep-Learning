@@ -54,5 +54,3 @@ AI system studying X-ray mammograms was shown to be better than human experts wh
 ![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/prediction.png)
 ### 3. Prediction after cropping image (in the app itself)
 ![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/after%20cropping.png)
-# Author 
-### https://dphi.tech/challenges/data-sprint-31-breast-cancer-detection/75/overview/about
