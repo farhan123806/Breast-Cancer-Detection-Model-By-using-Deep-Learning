@@ -36,20 +36,3 @@ Since the mammograms looks blury and dull, image preprocessing has been done to 
 # Why Deep-Learning?
 AI system studying X-ray mammograms was shown to be better than human experts when it came to predicting whether or not a patient has breast cancer. More specifically, the model was found to be as good as two doctors looking at the images, and better at spotting cancer than a single doctor, while also reducing the number of “false-negative” results. Such systems will never replace medical staff, but would serve as an extra set of eyes, while also being able to work 24/7 without getting tired or making mistakes.
 
-# Model Deployment using Gradio
-
->%cd Breast-Cancer-Detection/
-
->pip install -r requirements.txt
-
->!python app.py 
-
-###### Open the link to use the app
-
-# App Display
-### 1. Web Page
-![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/webpage.png)
-### 2. Prediction
-![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/prediction.png)
-### 3. Prediction after cropping image (in the app itself)
-![atl text](https://github.com/hrsht-13/Breast-Cancer-Detection/blob/main/image/after%20cropping.png)
